@@ -22,7 +22,7 @@ No tengo experiencia laboral en el campo de ciencia de datos, pero estoy aprendi
 * Knowledge of supervised and unsupervised models
 * Proficiency in Python and libraries such as Scikit-Learn, Pandas, NumPy, Keras, and Matplotlib
 * Knowledge of statistics
-# Projects
+## Projects
 * Predictive model for the Titanic dataset:
  * Use of supervised models to predict the survival of passengers on the Titanic
  * Data cleaning and preprocessing using Scikit-Learn
@@ -31,5 +31,5 @@ No tengo experiencia laboral en el campo de ciencia de datos, pero estoy aprendi
  * Implementation of a neural network using Keras and TensorFlow
  * Training and optimization of the neural network to improve accuracy in imbalanced classes
  * Evaluation of the model's performance using metrics such as F1-score and AUC
-# Work experience
+## Work experience
 I have no work experience in the field of data science, but I am learning and developing my skills through personal projects and online courses. I am excited to apply my skills in a work environment and develop a good professional career.
