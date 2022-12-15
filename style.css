@@ -121,36 +121,21 @@ b {
     max-width: 74rem;
     margin-top: 40px;
     margin-bottom: -150px;
+    justify-content: center;
+    align-items: center;
 }
 
-.social-links .linkedin{
-    margin: 10px;
-}
-
-.social-links .linkedin img{
-    margin: 10px;
-    margin-left: 40px;
-    max-height: 40px;
-    max-width: 40px;
-}
-
+.social-links .linkedin,
+.social-links .google,
 .social-links .github{
     margin: 10px;
 }
 
-.social-links .github img{
-    margin: 10px;
-    max-height: 40px;
-    max-width: 40px;
-}
-.social-links .google{
-    margin: 10px;
-}
-
-.social-links .google img{
-    margin: 10px;
-    max-height: 40px;
-    max-width: 40px;
+.social-links .linkedin img,
+.social-links .github img,
+.social-links .google img {
+  width: 40px;
+  height: 40px;
 }
 
 
@@ -327,6 +312,25 @@ img {
 }
 
 /* Project style section ends */
+
+/******************************/
+
+/* About section begins */
+
+.about-me{
+    font: 100% "Work Sans", Helvetica, sans-serif;
+    color: #616161;
+    background-color: #fafafa;
+    line-height: 1.5;
+    position: relative;
+}
+
+.about-me h1{
+    text-align: center;
+    font-size: 6vh;
+}
+
+/* About style section ends */
 
 /******************************/
 
